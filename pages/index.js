@@ -60,7 +60,7 @@ export default function Home() {
         >
           Powered by{' '}
           <span className={styles.logo}>
-            Reid's Brain
+            Reid&apos;s Brain
           </span>
         </a>
       </footer>
